@@ -45,3 +45,5 @@ the bgip tools and then run `format_1KG.sh`. This places all
 the variants into `1KG/ALL.GRCh38_sites.20170504.vcf`, which 
 can be used with the python script.
 
+If you want to run all chromosomes in a single serial run, merge 
+VCF with `concat_chrm_1KG.sh`.
